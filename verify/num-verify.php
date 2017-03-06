@@ -40,4 +40,4 @@ for($i=0;$i<3;$i++){
 	imageline($image,rand(1,99),rand(1,29),rand(1,99),rand(1,29),$linecolor);
 }
 imagepng($image);
-imagedestory($image);
+imagedestroy($image);

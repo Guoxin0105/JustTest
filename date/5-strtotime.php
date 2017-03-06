@@ -11,4 +11,4 @@ echo date('Y-m-d H:i:s',strtotime('-1 day')).'<br/>';
 echo date('Y-m-d H:i:s',strtotime('+5 days')).'<br/>';
 echo date('Y-m-d H:i:s',strtotime('+1 month')).'<br/>';
 echo date('Y-m-d H:i:s',strtotime('+2 years 3months 15 days')).'<br/>';
-session_decode(data)
+session_decode(data);
