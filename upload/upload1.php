@@ -5,7 +5,7 @@
 <title>uplaod1</title>
 </head>
 <body>
-<form action="doAction3.php" method="post" enctype="multipart/form-data" >
+<form action="doAction4.php" method="post" enctype="multipart/form-data" >
 <!-- 	<input type="hidden" name="MAX_FILE_SIZE" value="" /> -->
 请选择你要上传的文件:<input type="file" name="myFile1" id="" /><br/>
 请选择你要上传的文件:<input type="file" name="myFile2" id="" /><br/>

@@ -22,7 +22,7 @@
 		</buildCommand>
 	</buildSpec>
 	<natures>
-		<nature>org.zend.php.zendserver.deployment.core.DeploymentNature</nature>
 		<nature>org.eclipse.php.core.PHPNature</nature>
+		<nature>org.zend.php.zendserver.deployment.core.DeploymentNature</nature>
 	</natures>
 </projectDescription>
