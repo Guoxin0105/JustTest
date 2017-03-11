@@ -1,3 +1,7 @@
+<?php 
+require_once 'function/dir.func.php';
+require_once 'function/file.func.php';
+?>
 <!doctype html>
 <html lang="en">
 <head>
